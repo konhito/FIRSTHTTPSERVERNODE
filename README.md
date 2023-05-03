@@ -17,7 +17,7 @@ Run the server using index.js
 
 This project is all about a farm vegetables where farmers can add there fresh vegetables with the listing of organic or not.
 
-Open your web browser and navigate to http://localhost:8080/
+Open your web browser and navigate to http://127.0.0.1:8080/
 You should see a landing page named node farm displayed in your browser. This is coming from the server you just started.
 index.js
 The index.js file is the main file of this project. It contains the code for creating an HTTP server using the Node.js http module.
