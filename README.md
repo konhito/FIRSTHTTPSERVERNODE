@@ -22,7 +22,7 @@ You should see a landing page named node farm displayed in your browser. This is
 index.js
 The index.js file is the main file of this project. It contains the code for creating an HTTP server using the Node.js http module.
 
-The http.createServer() method creates an HTTP server object, and the .listen() method binds it to a specific port (in this case, port 8080). When a client sends an HTTP request to this server, the server responds with a message saying "Hello, world!".
+The http.createServer() method creates an HTTP server object, and the .listen() method binds it to a specific port (in this case, port 8080). When a client sends an HTTP request to this server, the server responds with a with a landing page 'node farm'.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
